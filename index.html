@@ -1,69 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sahel Sharifymoghaddam</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #fdfdfd;
-      color: #111;
-    }
-    .container {
-      max-width: 800px;
-      margin: 50px auto;
-      padding: 0 20px;
-    }
-    h1 {
-      font-size: 2.2em;
-      margin-bottom: 0.2em;
-    }
-    .email {
-      margin-bottom: 1em;
-      color: #333;
-    }
-    .icons a {
-      margin-right: 15px;
-      color: #333;
-      text-decoration: none;
-      font-size: 1.5em;
-    }
-    .section {
-      margin-top: 30px;
-      line-height: 1.6em;
-    }
-  </style>
-</head>
-
-<body>
-  <div class="container">
-    <h1>Sahel Sharifymoghaddam</h1>
-    <p class="email">sahel.sharifymoghaddam@uwaterloo.ca</p>
-
-    <div class="icons">
-      <a href="https://github.com/sahel-sh" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-      <a href="https://scholar.google.com/citations?user=NTkIhWsAAAAJ&hl=en" target="_blank" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
-      <a href="https://www.linkedin.com/in/sahelsharifymoghaddam/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-      <a href="https://drive.google.com/file/d/placeholder-cv-link/view" target="_blank" title="CV"><i class="fas fa-file"></i></a>
+<div class="row flex-column-reverse flex-md-row py-2">
+    <div class="col-md-8" id="bio">
+        <h1>Sahel Sharifymoghaddam</h1>
+        <p class="text-justify">
+          Hi! I am a second-year PhD student in the <a href="https://cs.uwaterloo.ca/" target="_blank">David R. Cheriton School of Computer Science</a> at the <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a>, where I am fortunate to be supervised by <a href="https://cs.uwaterloo.ca/~jimmylin/" target="_blank">Professor Jimmy Lin</a>.
+          My broad research interests lie at the intersection of Information Retrieval (IR) and Natural Language Processing (NLP), with a focus on ranking, retrieval-augmented generation (RAG), grounding, and their multimodal extensions.
+        </p>
+        <p class="text-justify">
+          Previously, I worked as a Software Engineer on the Google Cloud Applied AI team, building applications with Generative AI and cloud infrastructure.
+          I received my M.A.Sc. in Computer Engineering from the <a href="https://www.ece.utoronto.ca/" target="_blank">University of Toronto</a> in 2015, where I was advised by <a href="https://www.eecg.toronto.edu/~amza/" target="_blank">Professor Cristiana Amza</a>. I earned my Bachelor's degree from <a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a>, Iran, in 2013.
+          My complete CV is available <a href="https://drive.google.com/your-cv-link" target="_blank">here</a> (last update May 2025).
+        </p>
+        <p style="text-align:center">
+          <a target="_blank" href="mailto:sahel.sharifymoghaddam@uwaterloo.ca"><i class="fas fa-envelope"></i> Email</a> &nbsp;/&nbsp;
+          <a target="_blank" href="https://github.com/sahel-sh"><i class="fab fa-github"></i> GitHub</a> &nbsp;/&nbsp;
+          <a target="_blank" href="https://x.com/Sahel_Sharify"><i class="fa-brands fa-x-twitter"></i> (Formerly Twitter)</a> &nbsp;/&nbsp;
+          <a target="_blank" href="https://scholar.google.com/citations?user=NTkIhWsAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &nbsp;/&nbsp;
+          <a target="_blank" href="https://www.linkedin.com/in/sahelsharifymoghaddam/"><i class="fab fa-linkedin"></i> LinkedIn</a>
+        </p>
     </div>
-
-    <div class="section">
-      <p>
-        I am a second-year PhD student at the University of Waterloo. I am fortunate to be supervised by <a href="https://cs.uwaterloo.ca/~jimmylin/" target="_blank">Professor Jimmy Lin</a>.
-      </p>
-      <p>
-        I completed my undergraduate studies at Sharif University of Technology and earned my master’s in Computer Engineering from the University of Toronto, where I was advised by Professor Cristiana Amza.
-      </p>
-      <p>
-        Prior to Waterloo, I worked at Google Cloud Applied AI as a software engineer, building generative AI applications such as Sales AI, Document Processing, and Healthcare AI.
-      </p>
+    <div class="col-md-4" style="z-index:4;">
+        <img alt="profile photo" id="portrait" src="images/portrait.jpg">
     </div>
-  </div>
-</body>
+</div>
 
-</html>
+{% include publications.html %}
