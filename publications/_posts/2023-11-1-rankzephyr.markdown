@@ -1,4 +1,5 @@
 ---
+categories: [publications]
 title:  "RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!"
 date:   2023-11-01
 author: "Sharifymoghaddam, S."
