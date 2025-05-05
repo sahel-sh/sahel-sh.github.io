@@ -1,8 +1,8 @@
 ---
 title:  "Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses"
 date:   2025
-# author: "John Doe"
-authors: "<strong>Sharifymoghaddam, S.*</strong>, Upadhyay, S.*, Thakur, N.*, Pradeep, R., & Lin, J"
+author: "Sharifymoghaddam, S."
+authors: "Sharifymoghaddam, S.*, Upadhyay, S.*, Thakur, N.*, Pradeep, R., & Lin, J"
 venue: "arXiv"
 bib: |
   @article{sharifymoghaddam2025chatbot,
@@ -15,4 +15,3 @@ links:
   paper: https://arxiv.org/abs/2504.20006
   # code: https://github.com/vsimkus/academic-jekyll
 ---
-Brief description of another project.
