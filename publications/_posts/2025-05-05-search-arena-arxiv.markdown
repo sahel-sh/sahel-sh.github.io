@@ -1,9 +1,9 @@
 ---
-title:  "Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses"
-date:   2025
+title:  "Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses."
+date:   2025-05-05
 author: "Sharifymoghaddam, S."
-authors: "Sharifymoghaddam, S.*, Upadhyay, S.*, Thakur, N.*, Pradeep, R., & Lin, J"
-venue: "arXiv"
+authors: "<strong>Sharifymoghaddam, S.</strong>*, Upadhyay, S.*, Thakur, N.*, Pradeep, R., & Lin, J."
+venue: "Preprint (arXiv 2025)"
 bib: |
   @article{sharifymoghaddam2025chatbot,
     title={Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses},
