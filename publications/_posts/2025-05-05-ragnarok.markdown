@@ -1,6 +1,6 @@
 ---
-title:  "Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track."
-date:   2025-04-05
+title: "Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track."
+date: 2025-04-05
 author: "Sharifymoghaddam, S."
 authors: "Pradeep, R., Thakur, N., <strong>Sharifymoghaddam, S.</strong>, Zhang, E., Nguyen, R., Campos, D., ... & Lin, J."
 venue: "European Conference on Information Retrieval (ECIR 2025)"
@@ -9,7 +9,7 @@ bib: |
   @inproceedings{pradeep2025ragnarok,
     title={Ragnar{\"o}k: A reusable RAG framework and baselines for TREC 2024 retrieval-augmented generation track},
     author={Pradeep, Ronak and Thakur, Nandan and Sharifymoghaddam, Sahel and Zhang, Eric and Nguyen, Ryan and Campos, Daniel and Craswell, Nick and Lin, Jimmy},
-    booktitle={European Conference on Information Retrieval},
+    booktitle={European Conference on Information Retrieval (ECIR 2025)},
     pages={132--148},
     year={2025},
     organization={Springer}
@@ -18,4 +18,3 @@ links:
   paper: https://arxiv.org/abs/2406.16828
   code: https://github.com/castorini/ragnarok
 ---
-

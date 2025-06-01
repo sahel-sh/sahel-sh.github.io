@@ -1,0 +1,18 @@
+---
+title: "RankLLM: A Python Package for Reranking with LLMs"
+date: 2025-05-25
+author: "Sharifymoghaddam, S."
+authors: "<strong>Sharifymoghaddam, S.</strong>, Pradeep, R., Slavescu, A., Nguyen, R., Xu, A., Chen, Z., Zhang, Y., Chen, Y., Xian, J., & Lin, J."
+venue: "International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)"
+bib: |
+  @inproceedings{sharifymoghaddam2025rank,
+    title={RankLLM: A Python Package for Reranking with LLMs},
+    author={Sharifymoghaddam, Sahel and Pradeep, Ronak and Slavescu, Andre and Nguyen, Ryan and Xu, Andrew and Chen, Zijian and Zhang, Yilin and Chen, Yidi and Xian, Jasper and Lin, Jimmy},
+    year={2025},
+    booktitle={Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)},
+    location={Padova, Italy}
+  }
+links:
+  paper: https://arxiv.org/abs/2505.19284
+  code: https://github.com/castorini/rank_llm
+---

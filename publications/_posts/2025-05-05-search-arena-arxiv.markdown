@@ -1,6 +1,6 @@
 ---
-title:  "Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses."
-date:   2025-05-05
+title: "Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses."
+date: 2025-05-05
 author: "Sharifymoghaddam, S."
 authors: "<strong>Sharifymoghaddam, S.</strong>*, Upadhyay, S.*, Thakur, N.*, Pradeep, R., & Lin, J."
 venue: "Preprint (arXiv 2025)"
@@ -13,5 +13,5 @@ bib: |
   }
 links:
   paper: https://arxiv.org/abs/2504.20006
-  # code: https://github.com/vsimkus/academic-jekyll
+  code: https://github.com/castorini/lmsys_nuggetize
 ---
