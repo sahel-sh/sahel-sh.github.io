@@ -1,0 +1,16 @@
+---
+title: "ACARe: Agent-Context-Aware Reranker for Iterative Search"
+date: 2026-10-26
+author: "Sharifymoghaddam, S."
+authors: "<strong>Sharifymoghaddam, S.</strong>, Babakhin, Y., Esfandiarpoor, R., Holworthy, O., Lin, J., & Liu, B."
+venue: "Preprint (arXiv 2026)"
+bib: |
+  @article{sharifymoghaddam2026acare,
+    title={ACARe: Agent-Context-Aware Reranker for Iterative Search},
+    author={Sharifymoghaddam, Sahel and Babakhin, Yauhen and Esfandiarpoor, Reza and Holworthy, Oliver and Lin, Jimmy and Liu, Bo},
+    journal={arXiv preprint arXiv:2610.35840},
+    year={2026}
+  }
+links:
+  paper: https://arxiv.org/abs/2610.35840
+---
