@@ -2,7 +2,7 @@
 title: "BrowseComp-Plus: A Fair and Disentangled Evaluation Benchmark for Deep Search Agents"
 date: 2025-08-08
 author: "Sharifymoghaddam, S."
-authors: "Chen, Z.*, Ma, X.*, Zhuang, S.*, Nie, P., Zou, K., <strong>Sharifymoghaddam, S.</strong>, [...], & Lin, J. (21 authors)"
+authors: "Chen, Z.*, Ma, X.*, Zhuang, S.*, Nie, P., Zou, K., <strong>Sharifymoghaddam, S.</strong>, Liu, A., Green, J., Patel, K., Meng, R., Su, M., Li, Y., Hong, H., Shi, X., Liu, X., Oyarhoseini, H., Thakur, N., Zhang, C., Gao, L., Chen, W., & Lin, J."
 venue: "Annual Meeting of the Association for Computational Linguistics (ACL 2026)"
 pages: "22349--22370"
 bib: |

@@ -2,7 +2,7 @@
 title: "Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track."
 date: 2025-04-05
 author: "Sharifymoghaddam, S."
-authors: "Pradeep, R., Thakur, N., <strong>Sharifymoghaddam, S.</strong>, Zhang, E., Nguyen, R., Campos, D., ... & Lin, J."
+authors: "Pradeep, R., Thakur, N., <strong>Sharifymoghaddam, S.</strong>, Zhang, E., Nguyen, R., Campos, D., Craswell, N., & Lin, J."
 venue: "European Conference on Information Retrieval (ECIR 2025)"
 pages: "132--148"
 bib: |
