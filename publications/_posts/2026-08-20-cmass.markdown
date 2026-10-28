@@ -1,0 +1,19 @@
+---
+title: "CMASS: A ClimbMix Agentic Search Suite for Evaluating Search Agents Across Heterogeneous Tasks"
+date: 2026-08-20
+author: "Sharifymoghaddam, S."
+authors: "<strong>Sharifymoghaddam, S.</strong>*, Gu, L.*, Ge, Y., & Lin, J."
+venue: "Preprint (arXiv 2026)"
+bib: |
+  @article{sharifymoghaddam2026cmass,
+    title={CMASS: A ClimbMix Agentic Search Suite for Evaluating Search Agents Across Heterogeneous Tasks},
+    author={Sharifymoghaddam, Sahel and Gu, Lingwei and Ge, Yijun and Lin, Jimmy},
+    journal={arXiv preprint arXiv:2608.20317},
+    year={2026}
+  }
+links:
+  paper: https://arxiv.org/abs/2608.20317
+  website: https://cmass.tech
+  code: https://github.com/castorini/cmass
+  data: https://huggingface.co/datasets/castorini/cmass
+---

@@ -1,15 +1,18 @@
 ---
-title: "Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses."
+title: "Search Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses"
 date: 2025-04-28
 author: "Sharifymoghaddam, S."
 authors: "<strong>Sharifymoghaddam, S.</strong>*, Upadhyay, S.*, Thakur, N.*, Pradeep, R., & Lin, J."
-venue: "Preprint (arXiv 2025)"
+venue: "International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR 2026)"
+pages: "403--413"
 bib: |
-  @article{sharifymoghaddam2025chatbot,
-    title={Chatbot Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses},
+  @inproceedings{sharifymoghaddam2026search,
+    title={Search Arena Meets Nuggets: Towards Explanations and Diagnostics in the Evaluation of LLM Responses},
     author={Sharifymoghaddam, Sahel and Upadhyay, Shivani and Thakur, Nandan and Pradeep, Ronak and Lin, Jimmy},
-    journal={arXiv preprint arXiv:2504.20006},
-    year={2025}
+    booktitle={Proceedings of the 2026 International ACM SIGIR Conference on Innovative Concepts and Theories in Information Retrieval (ICTIR 2026)},
+    pages={403--413},
+    year={2026},
+    doi={10.1145/3805713.3820418}
   }
 links:
   paper: https://arxiv.org/abs/2504.20006
